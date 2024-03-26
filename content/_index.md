@@ -15,7 +15,7 @@ In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cl
 
 ![Create VPC](/workshop-001/images/1/0001.png?featherlight=false&width=90pc)
 
-![Create VPC](/images/1/0001.png?featherlight=false&width=90pc)
+
 
 #### Content
 
