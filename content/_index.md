@@ -17,7 +17,7 @@ In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cl
 
 ![VPC](/images/1-introduce/0001.png?featherlight=false&width=10pc)
 
-#### Contents
+#### Content
 
 1. [Introduction to VPC](1-introduce/)
 2. [Firewall within VPC](2-firewallinvpc/)
