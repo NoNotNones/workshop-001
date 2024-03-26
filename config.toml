@@ -1,4 +1,4 @@
-#relativeURLs = true
+relativeURLs = true
 
 baseURL = 'https://nonotnones.github.io/workshop-001/'
 
